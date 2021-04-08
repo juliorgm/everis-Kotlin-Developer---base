@@ -6,7 +6,9 @@
   </a>
 </p>
 
-<p>Projeto Este projeto trata-se de exemplos e desafios de programação em kotlin relacionados ao everis Kotlin Developer em parceria com a digital inovation one </p>
+## 💻 Sobre o projeto
+
+<p>Este projeto trata-se de exemplos e desafios de programação em kotlin relacionados ao everis Kotlin Developer em parceria com a digital inovation one </p>
 
 <h4 align="center"> 
 	🚧  Status: 🚀 Em construção...  🚧
