@@ -1,4 +1,4 @@
-<h1 align="center">everis Kotlin Developer | Exemplos e desafios 👋</h1>
+<h1>everis Kotlin Developer | Exemplos e desafios 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/juliorgm" target="_blank">
@@ -6,7 +6,17 @@
   </a>
 </p>
 
-> Projeto Este projeto trata-se de exemplos e desafios de programação em kotlin relacionados ao everis Kotlin Developer em parceria com a digital inovation one 
+<p>Projeto Este projeto trata-se de exemplos e desafios de programação em kotlin relacionados ao everis Kotlin Developer em parceria com a digital inovation one </p>
+
+<h4 align="center"> 
+	🚧  Status: 🚀 Em construção...  🚧
+</h4>
+
+### Pré-requisitos
+Para testar o código você pode instalar o Intellij <a href="https://www.jetbrains.com/idea/download/">community a partir deste link</a>, após realizar a instalação  você pode clonar o projeto abrindo Intellij :arrow_forward: Get from version control :arrow_forward: <a href="https://github.com/juliorgm/everis-Kotlin-Developer-base.git">cole esse link</a> e clique em clone
+
+### 🛠 Tecnologias
+kotlin e muita vontade :blush::blush::blush:
 
 ## Author
 
