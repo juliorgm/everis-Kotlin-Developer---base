@@ -16,7 +16,3 @@
 * Twitter: [@juliorgm](https://twitter.com/juliorgm)
 * Github: [@juliorgm](https://github.com/juliorgm)
 * LinkedIn: [@juliorgm](https://linkedin.com/in/juliorgm)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
